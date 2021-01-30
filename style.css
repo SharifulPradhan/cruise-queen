@@ -123,3 +123,8 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+#congrats-message {
+    padding: 50px;
+    display: none;
+    background-color: white;
+}
