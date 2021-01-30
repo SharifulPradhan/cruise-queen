@@ -102,6 +102,7 @@ nav ul li a:hover, a.active{
     padding: 2px;
     margin: 10px 5px 0px 0px;
     word-spacing: 20px;
+    cursor: pointer;
 }
 .booking-form .inputs{
     display: grid;
